@@ -2,11 +2,11 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>昨日美国</title>
   
-  <subtitle>一个立足中国的美国观察者</subtitle>
+  <subtitle>一个“复杂美国”的观察者</subtitle>
   <link href="https://vw911.github.io/atom.xml" rel="self"/>
   
   <link href="https://vw911.github.io/"/>
-  <updated>2023-11-14T08:14:31.061Z</updated>
+  <updated>2023-11-14T08:12:39.258Z</updated>
   <id>https://vw911.github.io/</id>
   
   <author>
@@ -15,19 +15,6 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
-  
-  <entry>
-    <title>新建一个名为第一篇博客.md的文件</title>
-    <link href="https://vw911.github.io/2023/11/14/%E6%96%B0%E5%BB%BA%E4%B8%80%E4%B8%AA%E5%90%8D%E4%B8%BA%E7%AC%AC%E4%B8%80%E7%AF%87%E5%8D%9A%E5%AE%A2-md%E7%9A%84%E6%96%87%E4%BB%B6/"/>
-    <id>https://vw911.github.io/2023/11/14/%E6%96%B0%E5%BB%BA%E4%B8%80%E4%B8%AA%E5%90%8D%E4%B8%BA%E7%AC%AC%E4%B8%80%E7%AF%87%E5%8D%9A%E5%AE%A2-md%E7%9A%84%E6%96%87%E4%BB%B6/</id>
-    <published>2023-11-14T08:14:31.000Z</published>
-    <updated>2023-11-14T08:14:31.061Z</updated>
-    
-    
-    
-    
-    
-  </entry>
   
   <entry>
     <title>Hello World</title>
