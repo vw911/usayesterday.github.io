@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>昨日美国</title>
-  
+  <icon>https://vw911.github.io/icon.png</icon>
   <subtitle>一个“复杂美国”的观察者</subtitle>
   <link href="https://vw911.github.io/atom.xml" rel="self"/>
   
   <link href="https://vw911.github.io/"/>
-  <updated>2023-11-14T02:07:32.894Z</updated>
+  <updated>2023-11-14T17:54:35.171Z</updated>
   <id>https://vw911.github.io/</id>
   
   <author>
@@ -17,19 +17,20 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
-    <title></title>
-    <link href="https://vw911.github.io/2023/11/15/%E6%98%A8%E6%97%A5%E7%BE%8E%E5%9B%BD20231113%EF%BC%9A%E4%B8%AD%E7%BE%8E%E5%95%86%E5%8A%A1%E9%83%A8%E9%95%BF%E5%B0%86%E5%9C%A8APEC%E6%9C%9F%E9%97%B4%E4%B8%BE%E8%A1%8C%E4%BC%9A%E8%B0%88/"/>
-    <id>https://vw911.github.io/2023/11/15/%E6%98%A8%E6%97%A5%E7%BE%8E%E5%9B%BD20231113%EF%BC%9A%E4%B8%AD%E7%BE%8E%E5%95%86%E5%8A%A1%E9%83%A8%E9%95%BF%E5%B0%86%E5%9C%A8APEC%E6%9C%9F%E9%97%B4%E4%B8%BE%E8%A1%8C%E4%BC%9A%E8%B0%88/</id>
+    <title>昨日美国20231113|中美商务部长将在APEC期间举行会谈</title>
+    <link href="https://vw911.github.io/2023/11/15/20231113/"/>
+    <id>https://vw911.github.io/2023/11/15/20231113/</id>
     <published>2023-11-14T17:37:24.827Z</published>
-    <updated>2023-11-14T02:07:32.894Z</updated>
-    
-    <content type="html"><![CDATA[<h4 id="新闻速览"><a href="#新闻速览" class="headerlink" title="新闻速览"></a>新闻速览</h4><p>1.中美商务部长将在APEC期间举行会谈<br>2.印太经济框架贸易支柱面临美国国内压力</p><h4 id="1-中美商务部长将在APEC期间举行会谈"><a href="#1-中美商务部长将在APEC期间举行会谈" class="headerlink" title="1.中美商务部长将在APEC期间举行会谈"></a>1.中美商务部长将在APEC期间举行会谈</h4><p>美东时间11月13日，美国商务部发言人证实，中美商务部长将在APEC期间举行会谈，但未提供具体时间和细节。<br><a href="https://www.reuters.com/world/us-commerce-chief-raimondo-meet-chinese-counterpart-wang-during-apec-2023-11-13/">https://www.reuters.com/world/us-commerce-chief-raimondo-meet-chinese-counterpart-wang-during-apec-2023-11-13/</a><br>#中美关系 </p><h4 id="2-印太经济框架贸易支柱面临美国国内压力"><a href="#2-印太经济框架贸易支柱面临美国国内压力" class="headerlink" title="2.印太经济框架贸易支柱面临美国国内压力"></a>2.印太经济框架贸易支柱面临美国国内压力</h4><p>美东时间11月13日，美国商会国际政策高级副总裁约翰·墨菲（John Murphy）表示，在美国退出TPP后，若再次对印太经济框架贸易支柱做类似举动，将对美国的信誉造成严重打击。民主党内部寻求反对拜登政府将于本周在APEC期间敲定的印太经济框架贸易支柱部分，认为这一部分缺乏“可执行的劳工标准”。<br><a href="https://www.scmp.com/news/china/article/3241411/us-business-group-calls-progress-trade-pillar-indo-pacific-economic-framework-talks-hit-snag">https://www.scmp.com/news/china/article/3241411/us-business-group-calls-progress-trade-pillar-indo-pacific-economic-framework-talks-hit-snag</a><br>#中美关系 </p>]]></content>
+    <updated>2023-11-14T17:54:35.171Z</updated>
     
     
       
       
+        
+        
     <summary type="html">&lt;h4 id=&quot;新闻速览&quot;&gt;&lt;a href=&quot;#新闻速览&quot; class=&quot;headerlink&quot; title=&quot;新闻速览&quot;&gt;&lt;/a&gt;新闻速览&lt;/h4&gt;&lt;p&gt;1.中美商务部长将在APEC期间举行会谈&lt;br&gt;2.印太经济框架贸易支柱面临美国国内压力&lt;/p&gt;
-&lt;h4 id=&quot;1-中美商</summary>
+&lt;h4</summary>
+        
       
     
     
