@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>USA Yesterday</title>
-  <icon>https://usayesterday.cn/icon.png</icon>
+  <icon>https://usayesterday.cn/RSS.png</icon>
   <subtitle>一个“复杂美国”的观察者</subtitle>
   <link href="https://usayesterday.cn/atom.xml" rel="self"/>
   
